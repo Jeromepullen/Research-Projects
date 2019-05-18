@@ -3,7 +3,7 @@ Examples of my (Jerome Pullen Jr.'s) previous research:
 ___________________________________________
 
 “Spotify User Research Project.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Spotify%20User%20Research%20Project.pdf
-is a project I created using data from Reddit to find the most critical issues that users had been experiencing while using Spotify.
+is a project I created using data from Reddit to find the most critical issues that users had been experiencing while using Spotify (I made this for when I applied to work for Spotify).
 ___________________________________________
 
 “Freecycle Research Overview and Discussion.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Freecycle%20Research%20Overview%20and%20Discussion.pdf 
