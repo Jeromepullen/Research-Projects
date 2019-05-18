@@ -18,6 +18,8 @@ are from studies that I conducted while working with Dr. Greiner (Charles River 
 ___________________________________________
 
 The “Meibomian Gland Analysis Procedure.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Procedure%20Document%20-%20Meibomian%20Gland%20Analysis.pdf
+
 and “Lid Expression Procedure.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Procedure%20Document%20-%20Lid%20Expression.pdf
+
 files are documents that I developed in order for Dr. Greiner to record information from procedures that he routinely performed.  I created those based on criteria of what information he needed to record and in the order of which he carried out each procedure.
 ___________________________________________
