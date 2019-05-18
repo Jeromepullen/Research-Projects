@@ -12,14 +12,14 @@ ___________________________________________
 
 "Lipiflow vs Lid Expression Data with Stats.xlsx”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Research%20-%20Lipiflow%20vs%20Lid%20Expression%20Data%20with%20Stats.xlsx (*click "View raw" or the "Download" button to download the file)
 
-and “Summary of Lipiflow vs Lid Expression Data.xlsx”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Research%20-%20Summary%20of%20Lipiflow%20vs%20Lid%20Expression%20Data.xlsx (*click "View raw" or the "Download" button to download the file)
+& “Summary of Lipiflow vs Lid Expression Data.xlsx”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Research%20-%20Summary%20of%20Lipiflow%20vs%20Lid%20Expression%20Data.xlsx (*click "View raw" or the "Download" button to download the file)
 
 are from studies that I conducted while working with Dr. Greiner (Charles River Eye Associates / Harvard Medical School).  I was researching whether or not patients experienced better outcomes from treating their dry eye syndrome with Lid Expression procedures or Lipiflow procedures.  The "Lipiflow vs Lid Expression Data with Stats.xlsx” file is a collection of all the measurements that were taken at the beginning of treatment (baseline) and after 3 months of treatment.  The “Summary of Lipiflow vs Lid Expression Data.xlsx” file is a summary of all those measurements.  
 ___________________________________________
 
 “Meibomian Gland Analysis Procedure.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Procedure%20Document%20-%20Meibomian%20Gland%20Analysis.pdf
 
-and “Lid Expression Procedure.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Procedure%20Document%20-%20Lid%20Expression.pdf
+& “Lid Expression Procedure.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Procedure%20Document%20-%20Lid%20Expression.pdf
 
 files are documents that I developed in order for Dr. Greiner to record information from procedures that he routinely performed.  I created those based on criteria of what information he needed to record and in the order of which he carried out each procedure.
 ___________________________________________
