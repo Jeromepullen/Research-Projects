@@ -21,5 +21,5 @@ files are documents that I developed in order for Dr. Greiner to record informat
 ___________________________________________
 
 “Spotify User Research Project.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Spotify%20User%20Research%20Project.pdf
-is a project I created using data from Reddit to find the most critical issues that users had been experiencing while using Spotify (I made this for when I applied to work for Spotify).
+is a project I created using data from Reddit to find the most critical issues that users had been experiencing while using Spotify.
 ___________________________________________
