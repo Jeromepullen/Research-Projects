@@ -2,10 +2,6 @@
 Examples of my (Jerome Pullen Jr.'s) previous research:
 ___________________________________________
 
-“Spotify User Research Project.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Spotify%20User%20Research%20Project.pdf
-is a project I created using data from Reddit to find the most critical issues that users had been experiencing while using Spotify (I made this for when I applied to work for Spotify).
-___________________________________________
-
 “Freecycle Research Overview and Discussion.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Freecycle%20Research%20Overview%20and%20Discussion.pdf 
 is the part of the research paper I wrote for Dr. Michael Krush of the North Dakota State University Marketing Department when we researched the motivations behind the use of The Freecycle Network (an online grassroots / nonprofit movement of people who are giving (and receiving) items for free from within their community).  For that paper I analyzed data collected from 45 in-depth interviews of Freecycle Network users. 
 ___________________________________________
@@ -22,4 +18,8 @@ ___________________________________________
 & “Lid Expression Procedure.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Ophthalmology%20Procedure%20Document%20-%20Lid%20Expression.pdf
 
 files are documents that I developed in order for Dr. Greiner to record information from procedures that he routinely performed.  I created those based on criteria of what information he needed to record and in the order of which he carried out each procedure.
+___________________________________________
+
+“Spotify User Research Project.pdf”: https://github.com/Jeromepullen/Research-Projects/blob/master/Spotify%20User%20Research%20Project.pdf
+is a project I created using data from Reddit to find the most critical issues that users had been experiencing while using Spotify (I made this for when I applied to work for Spotify).
 ___________________________________________
