@@ -2,7 +2,7 @@
 Examples of my (Jerome Pullen Jr.'s) previous research:
 ___________________________________________
 
-<b>“Bobcat Customer Needs Project”</b>: https://github.com/Jeromepullen/Research-Projects/blob/master/Bobcat%20Customer%20Needs%20Project.pptx
+<b>“Bobcat Customer Needs Project.pptx”</b>: https://github.com/Jeromepullen/Research-Projects/blob/master/Bobcat%20Customer%20Needs%20Project.pptx
 is a presentation I created to communicate customer needs to an engineering team at Bobcat equipment company. (*click "View raw" or the "Download" button to download the file)
 ___________________________________________
 
