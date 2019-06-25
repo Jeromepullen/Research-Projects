@@ -23,3 +23,6 @@ ___________________________________________
 <b>“Spotify User Research Project.pdf”</b>: https://github.com/Jeromepullen/Research-Projects/blob/master/Spotify%20User%20Research%20Project.pdf
 is a project I created using data from Reddit to find the most critical issues that users had been experiencing while using Spotify.
 ___________________________________________
+
+<b>“Bobcat Customer Needs Project”</b>: https://github.com/Jeromepullen/Research-Projects/blob/master/Bobcat%20Customer%20Needs%20Project.pptx
+is a presentation I created to communicate customer needs to an engineering team at Bobcat equipment company.
